@@ -23,6 +23,8 @@ builds:
     version: 1.8.35.1
   c6937010-1053-46ce-76b7-9d1212784438:
     version: 1.8.27.1
+  da7628ff-27ff-4f5e-5e5d-c627a1a4de21:
+    version: 1.8.41.1
   f6e6c03b-a63f-4d44-42d1-c8b6d317dfd9:
     version: 1.8.34.2
 format-version: "2"
