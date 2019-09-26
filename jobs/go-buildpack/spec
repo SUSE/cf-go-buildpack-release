@@ -3,6 +3,7 @@ name: go-buildpack
 templates: {}
 
 packages:
-- go-buildpack
+- go-buildpack-sle12
+- go-buildpack-sle15
 
 properties: {}

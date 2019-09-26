@@ -1,0 +1,2 @@
+    set -e -x
+    cp go-buildpack/go-buildpack-sle12-*.zip ${BOSH_INSTALL_TARGET}

@@ -1,0 +1,4 @@
+---
+name: go-buildpack-sle15
+files:
+- go-buildpack/go-buildpack-sle15-*.zip
