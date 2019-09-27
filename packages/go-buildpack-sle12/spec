@@ -1,4 +1,0 @@
----
-name: go-buildpack-sle12
-files:
-- go-buildpack/go-buildpack-sle12-*.zip
