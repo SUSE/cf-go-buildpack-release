@@ -1,0 +1,21 @@
+name: suse-go-buildpack
+version: 1.9.1.1
+commit_hash: 8913c70
+uncommitted_changes: false
+jobs:
+- name: go-buildpack
+  version: 927d1d3bfa7a8d51bda8747145b711bf7392a5e31661050c8a869c74fa23e1f0
+  fingerprint: 927d1d3bfa7a8d51bda8747145b711bf7392a5e31661050c8a869c74fa23e1f0
+  sha1: sha256:88384ec234d0e0d94f631572dc9777f707b0aebcff8f620f8ab9a24ff22a57ff
+  packages:
+  - go-buildpack-sle15
+packages:
+- name: go-buildpack-sle15
+  version: 89c6e5e44eed1c7a786c5850bd162774684c6797ad18a98594f0403a6316452a
+  fingerprint: 89c6e5e44eed1c7a786c5850bd162774684c6797ad18a98594f0403a6316452a
+  sha1: sha256:6e60a8143e8d8c4d4a201a19df89d7eb34a8765b2c218abd7a95212541cb18f9
+  dependencies: []
+license:
+  version: b8a675d2320bb49c44ee34a923c75e20c301640a3bae4134563f4f424d7e1796
+  fingerprint: b8a675d2320bb49c44ee34a923c75e20c301640a3bae4134563f4f424d7e1796
+  sha1: sha256:6b4091285e71b62690af2111947b958d40053f676e346bb6a549b06fb63a0e3c
