@@ -1,5 +1,5 @@
 ---
-name: go-buildpack
+name: suse-go-buildpack
 templates: {}
 
 packages:
