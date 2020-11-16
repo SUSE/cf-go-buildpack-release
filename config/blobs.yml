@@ -1,5 +1,5 @@
 ---
-go-buildpack/go-buildpack-sle15-v1.9.21.1-1.1-8a4bdd86.zip:
-  size: 4796314
-  object_id: go-buildpack-sle15-v1.9.21.1-1.1-8a4bdd86.zip
-  sha: sha256:8a4bdd867edf5e106bbf83353eafab0dc1e9c71c7cd176906fdb9e3710b6c173
+go-buildpack/go-buildpack-sle15-v1.9.22.1-1.1-6937a40f.zip:
+  size: 4796367
+  object_id: go-buildpack-sle15-v1.9.22.1-1.1-6937a40f.zip
+  sha: sha256:6937a40fdef8c477be0f19f8876d284c33d2cc43f0f810b1a1c5a9fdfd2fd67e
